@@ -1,0 +1,14 @@
+*.out
+*.swp
+compile_commands.json
+tags
+program.sh
+doc/*
+build/
+CMakeCache.txt
+CMakeFiles
+Makefile
+cmake_install.cmake
+session.vim
+vgcore.*
+ouril
